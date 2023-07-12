@@ -3,7 +3,7 @@
 # **Aymane Omari - README**
 📧 aymane.omari@nyu.edu
 📞 +971543214207
-🌐 LinkedIn
+🌐 [https://www.linkedin.com/in/aymane-omari-2630bb21a/]
 
 # **Education**
 🎓 New York University
