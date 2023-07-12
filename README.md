@@ -1,9 +1,11 @@
-Aymane Omari - README
+## Hi 👋 I'm Aymane
+
+# **Aymane Omari - README**
 📧 aymane.omari@nyu.edu
 📞 +971543214207
 🌐 LinkedIn
 
-Education
+# **Education**
 🎓 New York University
 August 2022 - Present
 B.S in Computer Science & Economics
@@ -12,8 +14,8 @@ B.S in Computer Science & Economics
 August 2019 - June 2022
 French Baccalaureate, Highest Honors 
 
-Work Experience
-👨‍💻 Student Research Assistant - 2023 Dakar Translation Symposium
+# **Work Experience**
+## 👨‍💻 Student Research Assistant - 2023 Dakar Translation Symposium
 Nov 2022 - Present
 Abu Dhabi, UAE
 
@@ -26,7 +28,7 @@ Contributed to the development of new programs, panels, and strategies for outre
 Coordinated the Summit in January 2023, hosting PhD scholars from more than 10 different regions.
 Facilitated the selection process to hire undergraduate students from NYU Abu Dhabi for an undergraduate discussion in Dakar.
 
-💻 C&O (Consumer Opinion) Marketing
+## 💻 C&O (Consumer Opinion) Marketing
 May 2023 - August 2023
 Data Engineering Intern
 Dubai, United Arab Emirates & Casablanca, Morocco
@@ -35,8 +37,8 @@ Data Engineering Intern for both Dubai and Casablanca offices.
 Assisted in marketing development, including customer satisfaction questionnaires and mystery shopping.
 Worked on data engineering projects, administering questionnaires and utilizing Power Query and Power BI.
 
-Skills
+## **Skills**
 💻 Python, C++, Regression, Arduino, Excel, Avimeca, Microsoft Tools
 
-Languages
+## **Languages**
 🌐 Arabic (native), French (native), English (fully fluent), Spanish (intermediate)
