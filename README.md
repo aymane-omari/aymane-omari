@@ -14,7 +14,7 @@ B.S in Computer Science & Economics
 August 2019 - June 2022
 French Baccalaureate, Highest Honors 
 
-# **Work Experience**
+# **Some of the work I did!**
 ## 👨‍💻 Student Research Assistant - 2023 Dakar Translation Symposium
 Nov 2022 - Present
 Abu Dhabi, UAE
