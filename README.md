@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Aymane
 
+## Most of my repositories are private, but feel free to reach out for data science projects!
+
 # **Aymane Omari - README**
 📧 aymane.omari@nyu.edu
 📞 +971543214207
