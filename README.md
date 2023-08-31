@@ -54,7 +54,7 @@ Under Professor Gregory Pardlo (2015 Pulitzer Prize winner)
 
 ### Skills
 - Programming: Python, C++, Arduino
-- Data Analysis: Regression
+- Data Analysis: R, Python, Markdown
 - Tools: Excel, Avimeca, Microsoft Tools
 
 ---
