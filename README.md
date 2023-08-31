@@ -3,7 +3,7 @@
 # **Aymane Omari - README**
 📧 aymane.omari@nyu.edu
 📞 +971543214207
-🌐 [Linkedin](https://www.linkedin.com/in/aymane-omari-2630bb21a/)
+🌐 [Linkedin](https://www.linkedin.com/in/aymane-omari/)
 
 # **Education**
 🎓 New York University
@@ -50,16 +50,16 @@ Under Professor Gregory Pardlo (2015 Pulitzer Prize winner)
   - Facilitated a selection process to hire undergraduate students from NYU Abu Dhabi to a roundtable discussion in the Dakar Symposium. Redesigned application forms with more user-friendly interfaces. Gauged interest from 60+ applicants, from which 30 were interviewed and 7 selected.
   - Coordinated the Summit in January 2023, hosting PhD scholars from more than 10 different regions in the world.
 
+# **Languages in which I'd be able to communicate!**
 ---
-
-### Skills
+### Computer
 - Programming: Python, C++, Arduino
 - Data Analysis: R, Python, Markdown
-- Tools: Excel, Avimeca, Microsoft Tools
+- Tools: Excel (advanced analysis), Avimeca
 
 ---
 
-### Languages
+### Human
 - Arabic (native)
 - French (native)
 - English (fully fluent)
