@@ -1,22 +1,12 @@
 ## Hi 👋 I'm Aymane
 
-## Most of my repositories are private, but feel free to reach out for data science projects!
+## Most of my repositories are private, but feel free to reach out for data science, computational social science, and data engineering projects!
 
-# **Aymane Omari - README**
-📧 aymane.omari@nyu.edu
-📞 +971543214207
+# **Where you can reach out**
+📧 aymane.omari@nyu.edu (NYU'26)
 🌐 [Linkedin](https://www.linkedin.com/in/aymane-omari/)
 
-# **Education**
-🎓 New York University
-August 2022 - Present
-B.S in Computer Science & Economics
-
-🎓 Lycée Français International Louis Massignon
-August 2019 - June 2022
-French Baccalaureate, Highest Honors 
-
-# **Some of the work I did!**
+# **Some of the work I did! Reach out for collabs!**
 ### Internships
 - **LD Talent** - Brand Ambassador (August 2023 - Present)
   - LD Talent is a tool that helps find diverse vetted developers or designers, facilitating in an efficient and transparent way while minimizing costs.
@@ -54,14 +44,14 @@ Under Professor Gregory Pardlo (2015 Pulitzer Prize winner)
 
 # **Languages in which I'd be able to communicate!**
 ---
-### Computer
+### Send my code in...
 - Programming: Python, C++, Arduino
 - Data Analysis: R, Python, Markdown
 - Tools: Excel (advanced analysis), Avimeca
 
 ---
 
-### Human
+### Talk to me in...
 - Arabic (native)
 - French (native)
 - English (fully fluent)
