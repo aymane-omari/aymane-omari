@@ -8,7 +8,7 @@
 
 # **Some of the work I did! Reach out for collabs!**
 ### Internships
-- **LD Talent** - Brand Ambassador (August 2023 - Present)
+- **LD Talent** - Brand Ambassador (August 2023 - October 2023)
   - LD Talent is a tool that helps find diverse vetted developers or designers, facilitating in an efficient and transparent way while minimizing costs.
   - Engaged with the entrepreneurial ecosystem, reaching out to 30+ startups.
   - Performed active outreach with LD quant & marketing teams to provide feedback.
