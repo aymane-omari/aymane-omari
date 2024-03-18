@@ -3,7 +3,7 @@
 ## Most of my repositories are private, but feel free to reach out for data science, computational social science, and data engineering projects!
 
 # **Where you can reach out**
-📧 aymane.omari@nyu.edu (NYU'26)
+📧 aymane.omari@nyu.edu
 🌐 [Linkedin](https://www.linkedin.com/in/aymane-omari/)
 
 # **Some of the work I did! Reach out for collabs!**
