@@ -7,8 +7,7 @@
 🌐 [Linkedin](https://www.linkedin.com/in/aymane-omari/)
 ---
 ### Send my code in...
-- Programming: Python, C++, Arduino
-- Data Analysis: R, Python, Markdown
-- Tools: Excel (advanced analysis), Avimeca
-
+- Programming & Development: MERN (MongoDB, Express.js, React, Node.js), Python, C, C++, JavaScript, TypeScript, Java, SQL, HTML, CSS, Django, Flask
+- Data Analysis & Machine Learning: SQL, R, Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), Tableau, Power BI, MATLAB, Spark
+- Tools & Cloud/DevOps: Git, GitHub, Docker, AWS, Google Cloud, Azure, Excel (advanced), JIRA, VSCode
 
